@@ -123,7 +123,7 @@ const ProductsSection = ({ bgImage }) => {
     {
       id: 7,
       title: 'Wonder Combi',
-      description: 'Micronutrient formula.',
+      description: 'Improves Micrbial Activity.',
       details: `Improves chlorophyll synthesis\nCorrects micronutrient deficiency\nEnsures better fruiting\nUniversal for crops`,
       image: wondercombi,
     },
