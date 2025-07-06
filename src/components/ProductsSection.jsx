@@ -9,12 +9,12 @@ import protax from '../assets/protax.webp';
 import reformer from '../assets/reformer.webp';
 import wondercombi from '../assets/wondercombi.webp';
 import wondercombiPlus from '../assets/wondercombi+.webp';
-import sparkle from '../assets/sparkle.webp';
-import protaxgold from '../assets/protaxgold.webp';
+import sparkle from '../assets/sparkle.png';
+import protaxgold from '../assets/protaxgold.png';
 import energizer from '../assets/energizer.webp';
 import gainmore from '../assets/gainmore.webp';
 import blackdiamond from '../assets/blackdiamond1.webp';
-import Activator from '../assets/Activator.webp';
+import Activator from '../assets/Activator.png';
 
 const ProductCard = ({ product }) => {
   const [isFlipped, setIsFlipped] = useState(false);
